@@ -7,14 +7,14 @@ Built to give you full control over movement, orientation, and animation of AI c
 
 ## ✨ Features
 
-- ✅ Works with any rig that has a `PrimaryPart`
-- ✅ No `Humanoid` or `Motor6D` required
-- ✅ Uses `AlignPosition` and `AlignOrientation` for smooth physics-based movement
-- ✅ Clean, readable codebase (~400 LOC)
-- ✅ Built-in events: `PathFinished`, `WaypointReached`, `PathBlocked`
-- ✅ Fallback system if pathfinding fails
-- ✅ Supports animations via `AnimationController`
-- ✅ Utility method to visualize waypoints
+-  Works with any rig that has a `PrimaryPart`
+-  No `Humanoid` or `Motor6D` required
+-  Uses `AlignPosition` and `AlignOrientation` for smooth physics-based movement
+-  Clean, readable codebase (~400 LOC)
+-  Built-in events: `PathFinished`, `WaypointReached`, `PathBlocked`
+-  Fallback system if pathfinding fails
+-  Supports animations via `AnimationController`
+-  Utility method to visualize waypoints
 
 ---
 
