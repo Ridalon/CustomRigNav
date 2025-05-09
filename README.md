@@ -11,7 +11,7 @@ Built to give you full control over movement, orientation, and animation of AI c
 -  No `Humanoid` or `Motor6D` required
 -  Uses `AlignPosition` and `AlignOrientation` for smooth physics-based movement
 -  Clean, readable codebase (~400 LOC)
--  Built-in events: `PathFinished`, `WaypointReached`, `PathBlocked`
+-  Built-in events: `PathFinished`, `WaypointReached`, `PathBlocked`, `MoveToFinished`
 -  Fallback system if pathfinding fails
 -  Supports animations via `AnimationController`
 -  Utility method to visualize waypoints
@@ -27,6 +27,7 @@ Built to give you full control over movement, orientation, and animation of AI c
 ---
 
 ## 🚀 Quick Start
+You can check this simple template, or the full example in the repository !
 
 ```lua
 local CustomRigNav = require(game.ReplicatedStorage.Modules.CustomRigNav)
