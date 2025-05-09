@@ -1,11 +1,11 @@
-# 🧭 CustomRigNav
+# CustomRigNav
 
 **A lightweight, modular pathfinding system for custom NPC rigs (no Humanoid) on Roblox.**  
 Built to give you full control over movement, orientation, and animation of AI characters using `AlignPosition` and `AlignOrientation`.
 
 ---
 
-## ✨ Features
+## Features
 
 -  Works with any rig that has a `PrimaryPart`
 -  No `Humanoid` or `Motor6D` required
@@ -18,7 +18,7 @@ Built to give you full control over movement, orientation, and animation of AI c
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Download or clone this repository.
 2. Place the `CustomRigNav` module in `ReplicatedStorage.Modules` or any module folder you prefer.
@@ -26,7 +26,7 @@ Built to give you full control over movement, orientation, and animation of AI c
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 You can check this simple template, or the full example in the repository !
 
 ```lua
